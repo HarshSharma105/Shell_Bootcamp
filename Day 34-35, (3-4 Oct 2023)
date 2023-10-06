@@ -1,0 +1,8 @@
+Azure ML Studio:
+Creating an azure ml studio workspace.
+Creating a notebook.
+Data Preparation
+Data Cleaning
+Feature Selection
+Applying different ml models.
+Creating a pipeline for automating the data retrieval, data cleaning, feature selection, model training, testing, and evaluation.
